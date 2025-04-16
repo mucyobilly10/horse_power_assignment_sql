@@ -1,5 +1,5 @@
-# horse_power_assignment_sql
-# Title: Window Warriors
+
+# Title: horse_power_assignment_sql
 
 A PL/SQL-based project that showcases the power and flexibility of **window functions** in managing and analyzing database records. This project explores real-world scenarios where window functions such as `RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`, `LEAD()`, `LAG()`, and others are used to provide advanced query solutions.
 <BR>
@@ -8,7 +8,7 @@ A PL/SQL-based project that showcases the power and flexibility of **window func
 ## 👥  Team Members
 
  MUCYO BILLY &nbsp;&nbsp;&nbsp;&nbsp; ID: 26853   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID: 
+ UWASE Anitha &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID: 26925
 <BR>
 <br>
 <br>
