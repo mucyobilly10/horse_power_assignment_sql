@@ -8,7 +8,7 @@ A PL/SQL-based project that showcases the power and flexibility of **window func
 ## 👥  Team Members
 
  MUCYO BILLY &nbsp;&nbsp;&nbsp;&nbsp; ID: 26853   
- UWASE Anitha &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID: 26945
+UWASE Anitha &nbsp;&nbsp;&nbsp;&nbsp; ID: 26945
 <BR>
 <br>
 <br>
@@ -55,13 +55,13 @@ CREATE TABLE employees (
 ```
  <BR>
  
-The result should be like this:
+![WhatsApp Image 2025-04-17 at 10 19 56 PM (4)](https://github.com/user-attachments/assets/6f51992c-1576-43e2-9c1b-165540836da4)
 
 
 
 
 
-![table employee](https://github.com/user-attachments/assets/06f38bed-df5f-48c6-817b-65f21ceb0c87)
+
 
 
 <br>
@@ -92,9 +92,9 @@ INSERT INTO employees VALUES (10, 'Jake',   'IT',       5500, TO_DATE('2023-04-0
 ```
  <BR>
  
-Result: 
+![WhatsApp Image 2025-04-17 at 10 19 57 PM](https://github.com/user-attachments/assets/b14e4a6a-c095-42e1-b533-ca1acc5fdb7c)
 
-![data insertion](https://github.com/user-attachments/assets/5bc2ef49-a38a-494e-9d9d-e8d420127725)
+
 <br>
  <BR>
  ###### _Explanation:_
@@ -127,9 +127,10 @@ ORDER BY hire_date;
 ```
  <BR>
 
-Result: 
 
-![1](https://github.com/user-attachments/assets/0789f127-4e55-4b41-b1fd-eeb738b7afaf)
+![WhatsApp Image 2025-04-17 at 10 19 56 PM (3)](https://github.com/user-attachments/assets/14510553-0e63-4bbf-b0fb-9f0490f38a31)
+
+
  <BR>
   <br>
   ###### _Explanation:_
@@ -158,9 +159,10 @@ FROM employees;
 
   <br>
   
-Result: 
+ 
+![WhatsApp Image 2025-04-17 at 10 19 56 PM (2)](https://github.com/user-attachments/assets/0c9436c0-d05b-44a8-9228-a4e871f142e9)
 
-![2](https://github.com/user-attachments/assets/5c72a3c3-1e20-4357-90b6-c5f193f77928)
+
   <br>
   <br>
  #### _Explanation:_
@@ -198,9 +200,11 @@ WHERE rnk <= 3;
 
   <br>
   
-Result:
 
-![3](https://github.com/user-attachments/assets/01328e31-850c-493e-b650-ba1b6439eb50)
+
+![WhatsApp Image 2025-04-17 at 10 19 55 PM (2)](https://github.com/user-attachments/assets/a60f4f58-720e-4d18-85fa-498adc866c0f)
+
+
  <br>
   <br>
  ###### _Explanation:_
@@ -228,9 +232,10 @@ WHERE row_num <= 2;
 
   <br>
   
-Result: 
+ ![WhatsApp Image 2025-04-17 at 10 19 55 PM (3)](https://github.com/user-attachments/assets/76f6aa99-4b82-43b9-8ec2-9c4398587ed9)
 
-![4](https://github.com/user-attachments/assets/519fe9d5-486c-4179-be81-f9533a12910b)
+
+
   <br>
   <br>
  ###### _Explanation:_
@@ -256,9 +261,10 @@ FROM employees;
 
   <br>
   
-Result:
 
-![5](https://github.com/user-attachments/assets/6497b5e1-1abe-4d88-b02e-d9c7537dcfef)
+![WhatsApp Image 2025-04-17 at 10 19 56 PM (1)](https://github.com/user-attachments/assets/c1407d2e-c6da-4bcb-8b16-c44e266bd96d)
+
+
   <br>
   <br>
  ###### _Explanation:_
@@ -278,3 +284,7 @@ Shows the highest salary in each department and across the whole company.
 <br>
 <br>
 <br>
+<br>
+
+
+
